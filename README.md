@@ -13,6 +13,8 @@ I'm actually work as full-stack web developer, starting in Fall 2019. I'm always
 
 ### Nuxt JS
 - [Produzione Privata 🪑](https://produzioneprivata.com/en)
+- [Limonta Altera](https://altera.limonta.com/it)
+- [Wega IT](https://wega.it/it)
 
 ### Shopify
 - [Emporean 🪑](https://www.emporean.com)

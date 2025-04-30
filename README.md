@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm actually work as full-stack web developer, starting in Fall 2019. I'm always curious about web tech and I keep everytime studying new code languages. I worked for a Bank for 8 years, now I become a trader in 2017 two years after studying the financial markets, such as Forex, Futures, Options and Shares. Actually based in Cremona 🎻, Italy
+I'm actually work as full-stack web developer, starting in Fall 2019. I'm always curious about web tech and I keep everytime studying new code languages. I worked for a Bank for 8 years, studying the financial markets, such as Forex, Futures, Options and Shares. Actually based in Cremona 🎻, Italy
 
 ## Portfolio
 
@@ -18,8 +18,8 @@ I'm actually work as full-stack web developer, starting in Fall 2019. I'm always
 - [University Politecnico Milano](https://dipartimentodesign.polimi.it/it)
 
 ### Shopify
-- [Emporean 🪑](https://www.emporean.com)
 - [Universal Music Italia 🎶](https://shop.universalmusic.it)
 - [Vasco Rossi 🎸](https://ilblascomerchandisingstore.com/)
+- [Emporean 🪑](https://www.emporean.com)
+- [Terre dei Trulli 🍝](https://terredeitrulli.it/)
 - [Fiorillicaffè ☕️](https://www.fiorillicaffe.com/)
-- [ColoursByMe🎨](https://shop.coloursbyme.it/)

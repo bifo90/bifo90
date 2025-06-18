@@ -18,6 +18,7 @@ I'm actually work as a freelance full-stack web developer, starting in Fall 2019
 - [Atelier Vm 💍](https://www.ateliervm.com/eu/en/)
 - [Stone Espresso ☕️](https://www.stone-espresso.com/)
 - [Limonta 🥼](https://www.limonta.com/en)
+- [Areacaroutlet 🚗](https://www.areacaroutlet.com)
 
 ### Laravel
 - [Gestionale Medico Stendhal 🩺](https://gsg.stendhalguardie.com/)

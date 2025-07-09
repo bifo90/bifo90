@@ -24,6 +24,8 @@ I'm actually work as a freelance full-stack web developer, starting in Fall 2019
 
 ### Laravel
 - [Gestionale Medico Stendhal 🩺](https://gsg.stendhalguardie.com/)
+- [Casahost 🗝️](https://admin.casahost.it)
+  - Stack: Filament PHP   
 
 
 ### Nuxt JS

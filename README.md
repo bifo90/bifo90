@@ -11,6 +11,7 @@ I'm actually work as a freelance full-stack web developer, starting in Fall 2019
 - [Terre dei Trulli 🍝](https://terredeitrulli.it/)
 - [Fiorillicaffè ☕️](https://www.fiorillicaffe.com/)
 - [Next Sport 🏃‍♂️](https://www.nextsport.it)
+- [Laboratorio Paravicini 🫓](https://www.paravicini.it/)
 - Work In Progress ⚠ Shop Avignonesi - Custom integration between Shopify Admin Graphql and Firestore
 
 ### Ruby on Rails
